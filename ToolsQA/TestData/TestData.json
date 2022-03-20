@@ -1,0 +1,15 @@
+{
+  "TextAlertButton": "You clicked a button",
+  "TextConfirmButton": "Do you confirm action?",
+  "TextAfterClickConfirmButton": "You selected Ok",
+  "TextPromptButton": "Please enter your name",
+  "CountRandomSimbols": 10,
+  "RemoveText": "You entered ",
+  "User": "1",
+  "FirstName": "Jon",
+  "LastName": "Snow",
+  "Email": "knownothing@gmail.com",
+  "Age": "30",
+  "Salary": "3000",
+  "Department": "alpha"
+}
